@@ -1,0 +1,183 @@
+state,district,market,commodity,variety,arrival_date,min_price,max_price,modal_price
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,03/01/2020,1350,4390,3100
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,04/01/2020,1390,4400,3200
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,06/01/2020,1460,5150,4310
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,07/01/2020,2010,5200,4200
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,10/01/2020,1320,4050,3300
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,11/01/2020,1060,3670,2870
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,13/01/2020,1200,3950,2850
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,17/01/2020,1290,4600,3580
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,18/01/2020,1770,4510,3330
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,20/01/2020,2100,4800,3800
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,21/01/2020,1870,4410,3700
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,22/01/2020,1730,4610,3800
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,23/01/2020,1300,4050,3200
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,25/01/2020,1200,3170,2600
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,27/01/2020,1360,3490,2400
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,28/01/2020,1230,3050,2600
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,29/01/2020,1080,2810,2300
+"Andhra Pradesh",Kurnool,Kurnool,chair,Local,30/01/2020,1010,2760,2280
+Chattisgarh,Bilaspur,Tiphra,chair,Other,02/01/2020,4200,4500,4300
+Chattisgarh,Bilaspur,Tiphra,chair,Other,03/01/2020,4200,4400,4300
+Chattisgarh,Bilaspur,Tiphra,chair,Other,04/01/2020,4000,4500,4300
+Chattisgarh,Bilaspur,Tiphra,chair,Other,05/01/2020,4200,4500,4300
+Chattisgarh,Bilaspur,Tiphra,chair,Other,06/01/2020,4400,4800,4500
+Chattisgarh,Bilaspur,Tiphra,chair,Other,07/01/2020,4300,4500,4400
+Chattisgarh,Bilaspur,Tiphra,chair,Other,08/01/2020,4000,4400,4200
+Chattisgarh,Bilaspur,Tiphra,chair,Other,09/01/2020,4200,4800,4500
+Chattisgarh,Bilaspur,Tiphra,chair,Other,11/01/2020,4000,4300,4100
+Chattisgarh,Bilaspur,Tiphra,chair,Other,12/01/2020,4000,4500,4300
+Chattisgarh,Bilaspur,Tiphra,chair,Other,13/01/2020,3800,4200,4000
+Chattisgarh,Bilaspur,Tiphra,chair,Other,14/01/2020,3700,4200,4000
+Chattisgarh,Bilaspur,Tiphra,chair,Other,15/01/2020,3600,4000,3800
+Chattisgarh,Bilaspur,Tiphra,chair,Other,16/01/2020,4000,4200,4100
+Chattisgarh,Bilaspur,Tiphra,chair,Other,17/01/2020,3500,4000,3800
+Chattisgarh,Bilaspur,Tiphra,chair,Other,18/01/2020,3400,3500,3400
+Chattisgarh,Bilaspur,Tiphra,chair,Other,19/01/2020,3500,4000,3800
+Haryana,Panipat,Madlauda,chair,Other,26/02/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,27/02/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,28/02/2020,3000,3000,3000
+Haryana,Panipat,Madlauda,chair,Other,29/02/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,01/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,02/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,04/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,05/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,06/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,08/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,09/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,11/03/2020,1500,1500,1500
+Haryana,Panipat,Madlauda,chair,Other,12/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,13/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,14/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,15/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,16/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,17/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,18/03/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,19/03/2020,1500,1500,1500
+Haryana,Panipat,Madlauda,chair,Other,04/04/2020,2200,2200,2200
+Haryana,Panipat,Madlauda,chair,Other,05/04/2020,2200,2200,2200
+Haryana,Panipat,Madlauda,chair,Other,06/04/2020,2200,2200,2200
+Haryana,Panipat,Madlauda,chair,Other,07/04/2020,2500,2500,2500
+Haryana,Panipat,Madlauda,chair,Other,08/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,09/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,10/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,12/04/2020,1800,1800,1800
+Haryana,Panipat,Madlauda,chair,Other,13/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,14/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,15/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,16/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,17/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,18/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,19/04/2020,1800,1800,1800
+Haryana,Panipat,Madlauda,chair,Other,20/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,21/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,22/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,23/04/2020,2000,2000,2000
+Haryana,Panipat,Madlauda,chair,Other,24/04/2020,2000,2000,2000
+Kerala,Ernakulam,Aluva,chair,Small,21/05/2020,3500,4500,4000
+Kerala,Ernakulam,Aluva,chair,Small,25/05/2020,3400,4500,4000
+Kerala,Ernakulam,Aluva,chair,Small,26/05/2020,3500,4500,4000
+Kerala,Ernakulam,Aluva,chair,Small,28/05/2020,3400,4500,4000
+Kerala,Ernakulam,Aluva,chair,Small,29/05/2020,3400,4500,4000
+Kerala,Ernakulam,Aluva,chair,Small,30/05/2020,3500,4400,4000
+Kerala,Ernakulam,Aluva,chair,Small,02/06/2020,3400,4000,3700
+Kerala,Ernakulam,Aluva,chair,Small,03/06/2020,3400,4000,3700
+Kerala,Ernakulam,Aluva,chair,Small,04/06/2020,3400,4000,3700
+Kerala,Ernakulam,Aluva,chair,Small,05/06/2020,4000,5000,4500
+Kerala,Ernakulam,Aluva,chair,Small,08/06/2020,3900,5000,4500
+Kerala,Ernakulam,Aluva,chair,Small,09/06/2020,3900,5000,4500
+Kerala,Ernakulam,Aluva,chair,Small,10/06/2020,3900,5000,4500
+Kerala,Ernakulam,Aluva,chair,Small,11/06/2020,3900,5000,4500
+Kerala,Ernakulam,Aluva,chair,Small,12/06/2020,3900,5000,4500
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,14/02/2020,300,2140,1780
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,15/02/2020,300,2190,1851
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,17/02/2020,500,2180,1845
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,18/02/2020,400,2219,1875
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,19/02/2020,400,2222,1921
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,20/02/2020,400,2211,1875
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,21/02/2020,400,2227,1941
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,22/02/2020,500,2151,1851
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,24/02/2020,301,2070,1751
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,25/02/2020,400,2000,1751
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,27/02/2020,430,2515,1981
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,28/02/2020,400,2111,1750
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,29/02/2020,300,2100,1751
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,02/03/2020,300,1800,1381
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,04/03/2020,501,1851,1420
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,05/03/2020,300,2001,1521
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,06/03/2020,351,1966,1545
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,07/03/2020,400,1975,1511
+Maharashtra,Nashik,Pimpalgaon,chair,Pole,09/03/2020,300,2151,1611
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,21/01/2020,4000,4500,4300
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,22/01/2020,4000,4600,4400
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,24/01/2020,4000,4500,4300
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,01/02/2020,4000,5000,4650
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,03/02/2020,4000,5000,4650
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,07/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,08/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,09/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,10/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,11/02/2020,2000,3000,2600
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,12/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,13/02/2020,2500,3000,2800
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,14/02/2020,2000,3000,2600
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,15/02/2020,2000,2500,2200
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,17/02/2020,2000,2500,2200
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,18/02/2020,2000,2500,2200
+Punjab,Nawanshahr,"Nawan Shahar(Subzi Mandi)",chair,Other,19/02/2020,2000,2500,2200
+Rajasthan,Sirohi,"Abu Road",chair,Other,28/04/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,29/04/2020,1275,1325,1300
+Rajasthan,Sirohi,"Abu Road",chair,Other,01/05/2020,1275,1325,1300
+Rajasthan,Sirohi,"Abu Road",chair,Other,02/05/2020,1175,1225,1200
+Rajasthan,Sirohi,"Abu Road",chair,Other,03/05/2020,1175,1225,1200
+Rajasthan,Sirohi,"Abu Road",chair,Other,04/05/2020,1175,1225,1200
+Rajasthan,Sirohi,"Abu Road",chair,Other,05/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,06/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,07/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,09/05/2020,775,825,800
+Rajasthan,Sirohi,"Abu Road",chair,Other,11/05/2020,775,825,800
+Rajasthan,Sirohi,"Abu Road",chair,Other,12/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,13/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,14/05/2020,975,1025,1000
+Rajasthan,Sirohi,"Abu Road",chair,Other,15/05/2020,875,925,900
+Rajasthan,Sirohi,"Abu Road",chair,Other,16/05/2020,875,925,900
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,29/07/2020,1075,1175,1125
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,30/07/2020,1090,1170,1130
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,31/07/2020,1080,1160,1120
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,02/08/2020,1090,1170,1130
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,03/08/2020,1090,1170,1130
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,04/08/2020,1080,1160,1120
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,05/08/2020,1080,1160,1120
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,06/08/2020,1060,1140,1100
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,07/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,08/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,09/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,10/08/2020,1060,1140,1100
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,11/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,12/08/2020,1060,1140,1100
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,13/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,14/08/2020,1070,1150,1110
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,15/08/2020,1060,1140,1100
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,16/08/2020,1060,1140,1100
+"Uttar Pradesh",Badaun,Wazirganj,chair,Red,17/08/2020,1070,1150,1110
+"West Bengal",Burdwan,Burdwan,chair,Nasik,09/09/2020,2900,3100,3000
+"West Bengal",Burdwan,Burdwan,chair,Nasik,10/09/2020,2900,3100,3000
+"West Bengal",Burdwan,Burdwan,chair,Nasik,12/09/2020,2600,2800,2700
+"West Bengal",Burdwan,Burdwan,chair,Nasik,14/09/2020,2900,3100,3000
+"West Bengal",Burdwan,Burdwan,chair,Nasik,15/09/2020,3100,3300,3200
+"West Bengal",Burdwan,Durgapur,chair,Other,01/01/2020,8000,8100,8060
+"West Bengal",Burdwan,Durgapur,chair,Other,02/01/2020,6500,6600,6600
+"West Bengal",Burdwan,Durgapur,chair,Other,03/01/2020,6250,6350,6300
+"West Bengal",Burdwan,Durgapur,chair,Other,04/01/2020,6000,6120,6100
+"West Bengal",Burdwan,Durgapur,chair,Other,05/01/2020,5950,6040,6000
+"West Bengal",Burdwan,Durgapur,chair,Other,06/01/2020,5500,5600,5550
+"West Bengal",Burdwan,Durgapur,chair,Other,07/01/2020,5750,5850,5800
+"West Bengal",Burdwan,Durgapur,chair,Other,08/01/2020,5750,5850,5800
+"West Bengal",Burdwan,Durgapur,chair,Other,09/01/2020,5700,5840,5800
+"West Bengal",Burdwan,Durgapur,chair,Other,10/01/2020,5950,6060,6000
+"West Bengal",Burdwan,Durgapur,chair,Other,11/01/2020,6000,6060,6000
+"West Bengal",Burdwan,Durgapur,chair,Other,12/01/2020,5800,5900,5850
+"West Bengal",Burdwan,Durgapur,chair,Other,13/01/2020,4300,4450,4400
+"West Bengal",Burdwan,Durgapur,chair,Other,14/01/2020,4050,4100,4100
+"West Bengal",Burdwan,Durgapur,chair,Other,15/01/2020,3950,4050,4000
+"West Bengal",Burdwan,Durgapur,chair,Other,16/01/2020,4150,4260,4200
